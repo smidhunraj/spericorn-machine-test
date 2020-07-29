@@ -1,4 +1,20 @@
 ###################
+Installation pf code
+###################
+
+For installation clone the repo and import sql file to database testing.
+
+It will work only with http://localhost/ci3/index.php/login
+http://localhost/ci3/index.php/adminupdate
+http://localhost/ci3/index.php/LoginDashboard/edit/14
+http://localhost/ci3/index.php/LoginDashboard
+sample username smidhunraj@gmail.com
+password:: 123456
+
+Pictures mainly of jpg will be supported.No support for jpeg
+
+
+###################
 What is CodeIgniter
 ###################
 
