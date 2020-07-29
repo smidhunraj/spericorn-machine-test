@@ -1,5 +1,5 @@
 ###################
-Installation pf code
+Installation of code
 ###################
 
 For installation clone the repo and import sql file to database testing.
