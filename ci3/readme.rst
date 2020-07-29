@@ -3,7 +3,7 @@ Installation of code
 ###################
 
 For installation clone the repo and import sql file to database testing.
-
+Some links are hard-coded.so clone the file to localhost ci3 directory.
 It will work only with http://localhost/ci3/index.php/login
 http://localhost/ci3/index.php/adminupdate
 http://localhost/ci3/index.php/LoginDashboard/edit/14
